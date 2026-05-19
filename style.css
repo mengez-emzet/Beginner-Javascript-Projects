@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+#counterContainer{
+    text-align: center;
+}
+
+#countLabel{
+    font-size: 10em;
+    margin-bottom: 30px;
+}
+
+#buttonContainer{
+    display: flex;
+    gap: 20px;
+}
+
+.buttons{
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.buttons:hover {
+    transform: scale(1.05);
+}
