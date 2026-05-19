@@ -19,14 +19,6 @@ A simple counter with increment, decrement, and reset functionality.
 2. Navigate to any project folder (e.g., `01-counter-app`)
 3. Open `index.html` in your browser
 
-##  Project Structure
-JS-Projects/
-├── 01-counter-app/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-└── README.md
-
 ## Author
 **Mengez Emzet**
 - GitHub: [@mengez-emzet](https://github.com/mengez-emzet)
